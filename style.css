@@ -1,4 +1,4 @@
-p, a {
+p, a , .class{
 	font-family: arial;
 	font-size: 20px;
 	color: #ffffff;
@@ -18,3 +18,4 @@ h1 {
 body {
 	background-image: url(https://www.wallpaperflare.com/static/356/65/74/nba-kobe-bryant-best-basketball-players-of-2015-los-angeles-lakers-wallpaper.jpg);
 }
+

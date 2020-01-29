@@ -22,3 +22,9 @@ h2 {
 body {
 	background-color: lightblue;
 }
+
+.class {
+	font-family: arial;
+	font-size: 20px;
+	color: #ffffff;
+}
