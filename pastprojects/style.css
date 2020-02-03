@@ -1,3 +1,9 @@
+a .page{
+	font-family: arial;
+	font-size: 20px;
+	color: #ffffff;
+}
+
 .piston {
 	transform: rotate(270deg)
 }
