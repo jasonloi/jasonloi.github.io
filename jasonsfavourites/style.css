@@ -1,5 +1,5 @@
 a .page{
-	font-family: 'Garamond';
+	font-family: 'Arial';
 	font-size: 20px;
 	color: #ffffff;
 }
@@ -26,7 +26,11 @@ h2 {
 }
 
 body {
-	background-color: lightblue;
+
+	font-family: 'Garamond';
+	font-size: 20px;
+	color: blue;
+
 }
 
 .class {

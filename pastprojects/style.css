@@ -1,9 +1,12 @@
-a .page{
-	font-family: 'Raleway';
+.page {
+	font-family: 'Arial';
 	font-size: 20px;
 	color: #ffffff;
-}
 
-.piston {
+body {
+
+	font-family: 'Garamond';
+	font-size: 20px;
+	color: blue;
 
 }
