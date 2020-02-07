@@ -1,5 +1,5 @@
-p, a , .page{
-	font-family: 'Garamond', sans-serif;
+p, .page{
+	font-family: 'Garamond';
 	font-size: 20px;
 }
 
@@ -9,7 +9,7 @@ p, a , .page{
 
 h1 {
 
-	font-family: 'Garamond', sans-serif;
+	font-family: 'Garamond';
 	font-size: 30px;
 	color: #ffffff;
 }
