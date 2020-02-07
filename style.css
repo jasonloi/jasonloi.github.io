@@ -1,16 +1,19 @@
-p, .page{
+ .page {
 	font-family: 'Arial';
 	font-size: 20px;
 }
 
-.raptors {
-	color: #CE1141;
+body {
+
+	font-family: 'Garamond';
+	font-size: 20px;
+	color: coral;
+	height: 700px;
+	width: 700px;
+
 }
 
-h1 {
-
-	font-family: 'Arial';
-	font-size: 30px;
-	color: #ffffff;
+.class {
+	font-family: 'Garamond';
+	font-size: 20px;
 }
-
