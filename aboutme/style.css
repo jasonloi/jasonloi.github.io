@@ -1,19 +1,19 @@
  a .page{
-	font-family: arial;
+	font-family: 'Raleway', sans-serif;
 	font-size: 20px;
 	color: #ffffff;
 }
 
 h1 {
 
-	font-family: Perpetua;
+	font-family: 'Raleway', sans-serif;
 	font-size: 40px;
 	color: blue;
 
 }
 
 .class {
-	font-family: arial;
+	font-family: 'Raleway', sans-serif;
 	font-size: 20px;
 	color: #ffffff;
 }

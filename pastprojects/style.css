@@ -1,9 +1,9 @@
 a .page{
-	font-family: arial;
+	font-family: 'Raleway', sans-serif;
 	font-size: 20px;
 	color: #ffffff;
 }
 
 .piston {
-	transform: rotate(270deg)
+
 }

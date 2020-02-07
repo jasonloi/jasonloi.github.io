@@ -1,12 +1,12 @@
 a .page{
-	font-family: arial;
+	font-family: 'Raleway', sans-serif;
 	font-size: 20px;
 	color: #ffffff;
 }
 
 h1 {
 
-	font-family: Arial;
+	font-family: 'Raleway', sans-serif;
 	font-size: 50px;
 	color: black;
 
@@ -14,13 +14,13 @@ h1 {
 
 .subtitle {
 	font-size: 30;
-	font-family: Perpetua;
+	font-family: 'Raleway', sans-serif;
 	color: grey;
 }
 
 h2 {
 
-	font-family: Perpetua;
+	font-family: 'Raleway', sans-serif;
 	font-size: 25px;
 	color: lavender;
 }
@@ -30,7 +30,7 @@ body {
 }
 
 .class {
-	font-family: arial;
+	font-family: 'Raleway', sans-serif;
 	font-size: 20px;
 	color: #ffffff;
 }
