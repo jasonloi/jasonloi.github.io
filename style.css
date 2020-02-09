@@ -6,18 +6,17 @@
 body {
 
 	font-family: 'Raleway', sans-serif;
-	font-size: 20px;
 	text-align: left;
 
 }
 
 
 
-#text {
+ .text {
 	font-family: 'Raleway', sans-serif;
 	height: 500px;
 	width: 500px;
-	font-size: 40px;
+	font-size: 35px;
 	color: coral;
 	margin-left: auto;
 	margin-right: auto;
