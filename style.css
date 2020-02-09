@@ -5,25 +5,21 @@
 
 body {
 
-	font-family: 'Raleway'
+	font-family: 'Raleway', sans-serif;
 	font-size: 20px;
-	font-style: "sans-serif";
 	text-align: left;
 
 }
 
-.class {
-	font-family: 'Raleway'
-	font-size: 20px;
-}
+
 
 #text {
-	font-family: 'Raleway', 
+	font-family: 'Raleway', sans-serif;
 	height: 500px;
 	width: 500px;
+	font-size: 30px;
 	color: coral;
 	text-align: center;
-	font-style: "sans-serif";
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: auto;
