@@ -1,12 +1,16 @@
  .page {
 	font-family: 'Raleway', sans-serif;
 	font-size: 20px;
-	text-decoration: none;
 	color: #135269;
 }
 
 .page:hover {
 	color: #09222b;
+}
+
+.page:link {
+	text-decoration: none;
+
 }
 
 body {
