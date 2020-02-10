@@ -1,11 +1,12 @@
  .page {
 	font-family: 'Raleway', sans-serif;
 	font-size: 20px;
-	color: #135269;
+	color: #8ecdd1;
+	text-align: center;
 }
 
 .page:hover {
-	color: #09222b;
+	color: #72a8ad;
 }
 
 .page:link {
@@ -23,14 +24,16 @@ body {
 
 }
 
-
+.banner {
+	background-color: #d6d6d6;
+}
 
  .text {
 
 	font-family: 'Raleway', sans-serif, thin;
 	height: 500px;
 	width: 800px;
-	color: #135269;
+	color: #8ecdd1;
 	margin-left: auto;
 	margin-right: auto;
 
