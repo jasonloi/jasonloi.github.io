@@ -1,6 +1,12 @@
  .page {
-	font-family: 'Raleway, Garamond';
+	font-family: 'Raleway', sans-serif;
 	font-size: 20px;
+	border-style: none;
+	color: #135269;
+}
+
+.page:hover {
+	color: #09222b;
 }
 
 body {
@@ -13,13 +19,13 @@ body {
 
 
  .text {
+
 	font-family: 'Raleway', sans-serif;
 	height: 500px;
-	width: 500px;
+	width: 800px;
 	font-size: 25px;
-	color: coral;
+	color: #135269;
 	margin-left: auto;
 	margin-right: auto;
-
 
 }
